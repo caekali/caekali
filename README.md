@@ -1,15 +1,16 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Caesar Kalikunde</h1>
-<h3 align="center">💻 Aspiring Backend & Android Developer | 🎓 BSc ICT Student at Mzuzu University</h3>
+<h3 align="center">💻 Backend Developer (Spring Boot / Laravel / REST APIs) | 📱 Android (Kotlin / Jetpack Compose)</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🎓 ICT Student passionate about **Backend Development** & **Mobile Apps**  
-- 🌱 Currently working with **Spring Boot, Laravel & REST APIs**  
-- 📱 Exploring **Android (Kotlin & Jetpack Compose)**  
-- 🤝 Open to collaborations on **Open Source** and **API projects**  
-- ⚡ I believe in **"Code, Learn, Build, Repeat"**
+- 🎓 BSc ICT Student at **Mzuzu University**  
+- 💻 Passionate about **Backend Development** & **Mobile Apps**  
+- 🔨 Building with **Spring Boot, Laravel, and REST APIs**  
+- 📱 Implementing Android apps in **Kotlin & Jetpack Compose**  
+- 🤝 Open to collaborations on **APIs, Android, and Open Source**  
+- ⚡ Motto: **"Code • Learn • Build • Repeat"**
 
 ---
 
@@ -34,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats & Streak  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caekali&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
@@ -49,7 +50,7 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://mw.linkedin.com/in/caesar-kalikunde-ba62532a9" target="_blank">
+  <a href="https://mw.linkedin.com/in/ckalikunde" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ckalikunde@gmail.com">
@@ -59,4 +60,4 @@
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to check out my repositories and connect 🤝*  
+<!-- ✨ *Thanks for visiting my profile! Check out my repositories and let’s connect 🤝*  -->
