@@ -10,7 +10,6 @@
 - 🔨 Building with **Spring Boot, Laravel, and REST APIs**  
 - 📱 Implementing Android apps in **Kotlin & Jetpack Compose**  
 - 🤝 Open to collaborations on **APIs, Android, and Open Source**  
-- ⚡ Motto: **"Code • Learn • Build • Repeat"**
 
 ---
 
