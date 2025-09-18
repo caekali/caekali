@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Caesar Kalikunde</h1>
 <h3 align="center">💻 Backend Developer (Spring Boot / Laravel / REST APIs) | 📱 Android (Kotlin / Jetpack Compose)</h3>
 
----
 
 ## 🚀 About Me  
 - 🎓 BSc ICT Student at **Mzuzu University**  
@@ -11,7 +10,6 @@
 - 📱 Implementing Android apps in **Kotlin & Jetpack Compose**  
 - 🤝 Open to collaborations on **APIs, Android, and Open Source**  
 
----
 
 ## 🛠 Tech Stack  
 
@@ -32,7 +30,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
----
 
 ## 📊 GitHub Stats  
 
@@ -45,7 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caekali&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
----
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -57,6 +53,5 @@
   </a>
 </p>
 
----
 
 <!-- ✨ *Thanks for visiting my profile! Check out my repositories and let’s connect 🤝*  -->
