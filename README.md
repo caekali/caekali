@@ -3,12 +3,15 @@
 <h3 align="center">💻 Backend Developer (Spring Boot / Laravel / REST APIs) | 📱 Android (Kotlin / Jetpack Compose)</h3>
 
 
+
 ## 🚀 About Me  
 - 🎓 BSc ICT Student at **Mzuzu University**  
 - 💻 Passionate about **Backend Development** & **Mobile Apps**  
 - 🔨 Building with **Spring Boot, Laravel, and REST APIs**  
 - 📱 Implementing Android apps in **Kotlin & Jetpack Compose**  
-- 🤝 Open to collaborations on **APIs, Android, and Open Source**  
+- 🤝 Open to collaborations on **APIs, Android, and Open Source**
+
+
 
 
 ## 🛠 Tech Stack  
@@ -31,6 +34,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 
+
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -41,6 +46,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caekali&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+
 
 
 ## 🌐 Connect With Me  
