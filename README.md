@@ -24,6 +24,11 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?logo=protocols&logoColor=white)
 
+<!--
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+-->
+
 ### **Mobile Development**
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
