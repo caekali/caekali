@@ -41,11 +41,11 @@
 
 ## 📊 GitHub Stats
 
-![Caesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caekali&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caekali&layout=compact&theme=default)
+![Caesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caekali&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caekali&layout=compact&theme=transparent)
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mw.linkedin.com/in/ckalikunde)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caekali)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ckalikunde@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://mw.linkedin.com/in/ckalikunde)
+[![Email Badge](https://img.shields.io/badge/Email-ckalikunde%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ckalikunde@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-green)](https://caekali.github.io)
