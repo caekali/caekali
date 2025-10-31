@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 BSc ICT Student at **Mzuzu University**  
+🎓 **4th Year** BSc ICT Student at **Mzuzu University** 
 💻 Passionate about **Backend Development** & **Mobile Apps**  
 🔨 Building with **Spring Boot, Laravel, and REST APIs**  
 📱 Implementing Android apps in **Kotlin & Jetpack Compose**  
