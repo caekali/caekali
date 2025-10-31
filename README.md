@@ -1,64 +1,51 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Caesar Kalikunde</h1>
-<h3 align="center">💻 Backend Developer (Spring Boot / Laravel / REST APIs) | 📱 Android (Kotlin / Jetpack Compose)</h3>
+# Hi there 👋, I'm **Caesar Kalikunde**
 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-green)](https://caekali.github.io)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://mw.linkedin.com/in/ckalikunde)
+[![Email Badge](https://img.shields.io/badge/Email-ckalikunde%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ckalikunde@gmail.com)
 
+## 🚀 About Me
 
-## 🚀 About Me  
-- 🎓 BSc ICT Student at **Mzuzu University**  
-- 💻 Passionate about **Backend Development** & **Mobile Apps**  
-- 🔨 Building with **Spring Boot, Laravel, and REST APIs**  
-- 📱 Implementing Android apps in **Kotlin & Jetpack Compose**  
-- 🤝 Open to collaborations on **APIs, Android, and Open Source**
+🎓 BSc ICT Student at **Mzuzu University**  
+💻 Passionate about **Backend Development** & **Mobile Apps**  
+🔨 Building with **Spring Boot, Laravel, and REST APIs**  
+📱 Implementing Android apps in **Kotlin & Jetpack Compose**  
+🤝 Open to collaborations on **APIs, Android, and Open Source**
 
+## 💻 Skills & Technologies
 
+### **Programming**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
+### **Backend & APIs**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=protocols&logoColor=white)
 
-## 🛠 Tech Stack  
+### **Mobile Development**
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 
-### 💻 Backend & APIs  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1C4E80?logo=h2&logoColor=white)
 
-### 📱 Mobile  
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### 🛠 Tools & Databases  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+## 📊 GitHub Stats
 
+![Caesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caekali&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caekali&layout=compact&theme=default)
 
+## 🌐 Connect with Me
 
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caekali&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caekali&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caekali&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-
-
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://mw.linkedin.com/in/ckalikunde" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ckalikunde@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-<!-- ✨ *Thanks for visiting my profile! Check out my repositories and let’s connect 🤝*  -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mw.linkedin.com/in/ckalikunde)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caekali)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ckalikunde@gmail.com)
