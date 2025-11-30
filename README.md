@@ -36,7 +36,7 @@
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1C4E80?logo=h2&logoColor=white)
+<!-- ![H2](https://img.shields.io/badge/H2-1C4E80?logo=h2&logoColor=white)-->
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
