@@ -38,11 +38,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-
+<!--
 ## 📊 GitHub Stats
 
 ![Caesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caesarKalikunde&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarKalikunde&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarKalikunde&layout=compact&theme=transparent) -->
 
 
 ## 🌐 Connect with Me
