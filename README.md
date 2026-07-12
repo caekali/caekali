@@ -5,8 +5,6 @@
 [![Email Badge](https://img.shields.io/badge/Email-ckalikunde%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ckalikunde@gmail.com)
 
 ## 🚀 About Me
-
-🎓 BSc. ICT Student at **Mzuzu University**  
 💻 Passionate about **Backend Development**  
 🔨 Building robust APIs and server-side systems with **Spring Boot, Laravel, and REST APIs**  
 🤝 Open to collaborations on **Backend Projects, APIs & Open Source**
