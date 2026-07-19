@@ -1,14 +1,15 @@
 # Hi there 👋, I'm **Caesar Kalikunde**
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-green)](https://caesarKalikunde.github.io)
+**Backend Developer | Laravel, Spring Boot & FastAPI | REST APIs**
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-green)](https://caesarkalikunde.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://mw.linkedin.com/in/ckalikunde)
 [![Email Badge](https://img.shields.io/badge/Email-ckalikunde%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ckalikunde@gmail.com)
 
 ## 🚀 About Me
 💻 Passionate about **Backend Development**  
-🔨 Building robust APIs and server-side systems with **Spring Boot, Laravel, and REST APIs**  
+🔨 Building robust APIs and server-side systems with **Spring Boot, Laravel, FastAPI, and REST APIs**  
 🤝 Open to collaborations on **Backend Projects, APIs & Open Source**
-
 
 ## 💻 Skills & Technologies
 
@@ -21,8 +22,9 @@
 ### **Backend & APIs**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?logo=protocols&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=protocols&logoColor=white)
+
 <!-- ### **Mobile Development (Supporting Context)**
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white) -->
@@ -39,15 +41,11 @@
 
 <!--
 ## 📊 GitHub Stats
-
 ![Caesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caesarKalikunde&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarKalikunde&layout=compact&theme=transparent) -->
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarKalikunde&layout=compact&theme=transparent)
+-->
 
 ## 🌐 Connect with Me
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://mw.linkedin.com/in/ckalikunde)
 [![Email Badge](https://img.shields.io/badge/Email-ckalikunde%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ckalikunde@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live-green)](https://caesarkalikunde.github.io)
-
-
